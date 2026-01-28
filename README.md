@@ -1,57 +1,75 @@
-# Hi, I'm Md Almus Fuad 👋
+# Hi, I’m Md Almus Fuad 👋
 
-Backend-focused Software Engineer specializing in Python, Node.js, and cloud-native systems.  
-I build reliable backend services, data-driven systems, and APIs that run in production.  
-Experienced in backend, distributed systems, and applied ML/AI integration.
+Backend-focused Software Engineer building reliable backend systems, APIs, and data-driven services.  
+Experienced with Python, Node.js, cloud infrastructure, and applied ML/AI integration.  
+Open to remote backend, platform, and data-engineering–adjacent roles.
 
-📍 Dhaka, Bangladesh | 🌍 Open to Remote  
-📫 Email: almusfuad@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/almus-fuad/  
-💼 Portfolio: https://almusfuad.netlify.app (replace when updated)
+📍 Dhaka, Bangladesh | 🌍 Remote-ready  
+📫 almusfuad@gmail.com  
+🔗 https://www.linkedin.com/in/almus-fuad/  
+🌐 Portfolio: https://almusfuad.netlify.app
 
 ---
 
 ## 🔧 Core Expertise
-- Backend Engineering (Python, Django, FastAPI, Node.js, NestJS, Express)
-- REST APIs & Microservices
-- Database Design & Optimization (PostgreSQL, MySQL, MongoDB, Redis)
+- Backend Engineering (Python, Django, FastAPI, Node.js, Express, NestJS)
+- API Design & Microservices
+- Databases & Caching (PostgreSQL, Redis, MongoDB)
 - Cloud & DevOps (Docker, AWS, CI/CD, Nginx)
-- Asynchronous Systems (Celery, RabbitMQ)
+- Async Systems (Celery, RabbitMQ)
 - Data Pipelines & ML Integration
-- Production Reliability & Monitoring
+- Reliability, Monitoring, and Production Support
 
 ---
 
-## 📊 GitHub Activity & Stats
+## 📊 Engineering Activity
 
-| Most Used Languages | GitHub Stats | Coding Time | Productive Time |
-|---------------------|--------------|-------------|-----------------|
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=almusfuad&layout=compact&theme=tokyonight) | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=almusfuad&show_icons=true&theme=tokyonight) | ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=almusfuad&theme=tokyonight) | ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=almusfuad&theme=tokyonight) |
-
+<table>
+<tr>
+<td align="center" width="50%">
+<p><b>Languages</b></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=almusfuad&layout=compact&theme=default" />
+</td>
+<td align="center" width="50%">
+<p><b>GitHub Stats</b></p>
+<img src="https://github-readme-stats.vercel.app/api?username=almusfuad&show_icons=true&theme=default" />
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<p><b>Coding Time</b></p>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=almusfuad&theme=default" />
+</td>
+<td align="center" width="50%">
+<p><b>Productive Time</b></p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=almusfuad&theme=default" />
+</td>
+</tr>
+</table>
 
 ---
 
-## 🧠 Expertise Summary
-![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=almusfuad&theme=tokyonight)
+## 🧠 Profile Summary
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=almusfuad&theme=default" />
 
 ---
 
-## 🛠️ Featured Projects
-- **Movie Recommendation System (ML)** – https://github.com/almusfuad/movie_recommendation_system
-- **SaaS Restaurant Platform** – (add live link here)
-- **Sellstream Inventory System** – (add live link here)
+## 🚀 Selected Projects
+- **Movie Recommendation System (ML)**  
+  https://github.com/almusfuad/movie_recommendation_system
+- **SaaS Restaurant Platform** *(live link coming soon)*  
+- **Sellstream Inventory System** *(live link coming soon)*
 
 ---
 
-## 🌱 Currently Working On
-- Backend reliability and system design
+## 🌱 Currently Exploring
+- Backend reliability & scalability
 - ML model serving & inference APIs
-- RAG-based AI systems with LLMs
-- Scalable SaaS architecture
+- RAG systems with LLMs
+- Data-intensive backend systems
 
 ---
 
 ## 🤝 Let’s Connect
-If you’re building backend systems, data platforms, or AI-powered products,  
-feel free to reach out — I enjoy solving real problems.
-
+I enjoy working on backend systems, data platforms, and AI-enabled products.  
+If you’re building something meaningful, feel free to reach out.
