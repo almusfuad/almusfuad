@@ -24,18 +24,10 @@ Experienced in backend, distributed systems, and applied ML/AI integration.
 
 ## 📊 GitHub Activity & Stats
 
-### 🚀 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=almusfuad&layout=compact&theme=tokyonight)
+| Most Used Languages | GitHub Stats | Coding Time | Productive Time |
+|---------------------|--------------|-------------|-----------------|
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=almusfuad&layout=compact&theme=tokyonight) | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=almusfuad&show_icons=true&theme=tokyonight) | ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=almusfuad&theme=tokyonight) | ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=almusfuad&theme=tokyonight) |
 
-### 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=almusfuad&show_icons=true&theme=tokyonight)
-
-### ⏱ Coding Time (Wakatime)
-<!-- Wakatime badge -->
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=almusfuad&theme=tokyonight)
-
-### 🕒 Productive Time
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=almusfuad&theme=tokyonight)
 
 ---
 
