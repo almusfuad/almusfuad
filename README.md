@@ -1,39 +1,65 @@
-<h1 align="center">Hi 👋, I'm Almus Fuad</h1>
-<h3 align="center">A passionate backend and python developer from Bangladesh</h3>
+# Hi, I'm Md Almus Fuad 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=almusfuad&label=Profile%20views&color=0e75b6&style=flat" alt="almusfuad" /> </p>
+Backend-focused Software Engineer specializing in Python, Node.js, and cloud-native systems.  
+I build reliable backend services, data-driven systems, and APIs that run in production.  
+Experienced in backend, distributed systems, and applied ML/AI integration.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=almusfuad" alt="almusfuad" /></a> </p>
+📍 Dhaka, Bangladesh | 🌍 Open to Remote  
+📫 Email: almusfuad@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/almus-fuad/  
+💼 Portfolio: https://almusfuad.netlify.app (replace when updated)
 
-- 🌱 I’m currently learning **Data Science**
+---
 
-- 💬 Ask me about **Python**
+## 🔧 Core Expertise
+- Backend Engineering (Python, Django, FastAPI, Node.js, NestJS, Express)
+- REST APIs & Microservices
+- Database Design & Optimization (PostgreSQL, MySQL, MongoDB, Redis)
+- Cloud & DevOps (Docker, AWS, CI/CD, Nginx)
+- Asynchronous Systems (Celery, RabbitMQ)
+- Data Pipelines & ML Integration
+- Production Reliability & Monitoring
 
-- 📫 How to reach me **almusfuad@gmail.com**
+---
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/17yDFKxTIs6VXEMqApMjQoKvOrYE_nR84/view?usp=sharing](https://drive.google.com/file/d/1ljAmbfGbLI6gLlW4Vm5jBSQ0inLUVjCY/view?usp=sharing)
+## 📊 GitHub Activity & Stats
 
-- ⚡ Fun fact **I think I am Funny**
+### 🚀 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=almusfuad&layout=compact&theme=tokyonight)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+### 📈 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=almusfuad&show_icons=true&theme=tokyonight)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/https://dev.to/almusfuad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/almusfuad" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/almusfuad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/almusfuad" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/17515572/md-almus-fuad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/17515572/md-almus-fuad" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/almusfuad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/almusfuad" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/almusfuad/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/almusfuad/" height="30" width="40" /></a>
-<a href="https://discord.gg/fezio#7474" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="fezio#7474" height="30" width="40" /></a>
-</p>
+### ⏱ Coding Time (Wakatime)
+<!-- Wakatime badge -->
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=almusfuad&theme=tokyonight)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+### 🕒 Productive Time
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=almusfuad&theme=tokyonight)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=almusfuad&show_icons=true&locale=en&layout=compact" alt="almusfuad" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=almusfuad&show_icons=true&locale=en" alt="almusfuad" /></p>
+## 🧠 Expertise Summary
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=almusfuad&theme=tokyonight)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=almusfuad&" alt="almusfuad" /></p>
+---
+
+## 🛠️ Featured Projects
+- **Movie Recommendation System (ML)** – https://github.com/almusfuad/movie_recommendation_system
+- **SaaS Restaurant Platform** – (add live link here)
+- **Sellstream Inventory System** – (add live link here)
+
+---
+
+## 🌱 Currently Working On
+- Backend reliability and system design
+- ML model serving & inference APIs
+- RAG-based AI systems with LLMs
+- Scalable SaaS architecture
+
+---
+
+## 🤝 Let’s Connect
+If you’re building backend systems, data platforms, or AI-powered products,  
+feel free to reach out — I enjoy solving real problems.
+
