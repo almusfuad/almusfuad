@@ -13,12 +13,13 @@ Open to remote backend, platform, and data-engineering–adjacent roles.
 
 ## 🔧 Core Expertise
 - Backend Engineering (Python, Django, FastAPI, Node.js, Express, NestJS)
-- API Design & Microservices
+- Frontend Development (React, NextJs)
+- API Design & System Design
 - Databases & Caching (PostgreSQL, Redis, MongoDB)
-- Cloud & DevOps (Docker, AWS, CI/CD, Nginx)
-- Async Systems (Celery, RabbitMQ)
+- Cloud & DevOps (Docker, AWS, CI/CD, Nginx, Datbase migrations, Kubernetes)
+- Async Systems (Celery, RabbitMQ, Kafka)
 - Data Pipelines & ML Integration
-- Reliability, Monitoring, and Production Support
+- Reliability (Alerting system), Monitoring (Grafana, Prometheus, Loki), and Production Support
 
 ---
 
